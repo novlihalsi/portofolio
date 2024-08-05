@@ -6,7 +6,10 @@ import React from "react";
 
 export function ProjectSection() {
   return (
-    <div id="project-section" className="w-full h-full py-20 text-center">
+    <div
+      id="project-section"
+      className="w-full h-full py-20 text-center bg-black"
+    >
       <h2 className="max-w-7xl mx-auto text-xl md:text-2xl font-bold text-neutral-200 font-sans">
         Recent Works
       </h2>
